@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Toko
+  m_Controller: {fileID: 9100000, guid: 91f0ad473e2dc5e44b98429d718c07db, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: dc7b6656cda8bfa4c84b8a51105de829, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 1a05ea782df108a4e9174a54f35e4613, type: 2}
+  - m_OriginalClip: {fileID: 7400002, guid: dc7b6656cda8bfa4c84b8a51105de829, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 2ef6ac80e6bfddc478716a16a78e37e6, type: 2}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 1520f447f3ce1834a83ff865d608e91e, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 17633bf87d0c86d45bc9f60f83ba4ea9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2457e4c7cc8e09f4da0eebcf9bf93ec2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2457e4c7cc8e09f4da0eebcf9bf93ec2, type: 2}
+  - m_OriginalClip: {fileID: 7400020, guid: dc7b6656cda8bfa4c84b8a51105de829, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 2662d89fcb026ae4ab6e22d3969424fe, type: 2}
+  - m_OriginalClip: {fileID: 7400022, guid: dc7b6656cda8bfa4c84b8a51105de829, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 730501492d3c8d846918809514388e44, type: 2}
+  - m_OriginalClip: {fileID: 7400024, guid: dc7b6656cda8bfa4c84b8a51105de829, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 67e3d65e9977af749b310e1e991d038a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1541bde39c45c0545a0f741d4e7068d7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1541bde39c45c0545a0f741d4e7068d7, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48074ee80d14a40468a7b95385a396b4, type: 3}
+  m_Name: Toko
+  m_EditorClassIdentifier: 
+  characterName: Toko
+  characterDescription: "\uB611\uBD80\uB7EC\uC9C4 \uC131\uACA9\uC758 \uC5EC\uC790\uC544\uC774"
+  maxHP: 10
+  maxStamina: 200
+  moveSpeed: 2
+  jumpPower: 32
+  weight: 10
+  groundLayerMask:
+    serializedVersion: 2
+    m_Bits: 1024
